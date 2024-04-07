@@ -14,9 +14,9 @@ class Solution:
         count = 0
         for i in range(n-1):
             if nums[i] != nums[i + 1]:
-                unique [count] = nums[i]
+                unique[count] = nums[i]
                 count = count + 1
-        unique [count] = nums[n - 1]
+        unique[count] = nums[n - 1]
         count = count + 1
         for i in range(count):
             nums[i] = unique[i]
