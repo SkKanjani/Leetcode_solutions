@@ -1,6 +1,6 @@
 
 ## Problem: https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/549/
-
+## Difficulty: Easy
 ## Solution: 
 
 from typing import List
